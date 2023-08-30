@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/ciclevest/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
